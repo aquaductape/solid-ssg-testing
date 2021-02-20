@@ -1,4 +1,3 @@
-import "focus-visible";
 import Graph from "./Graph/Graph";
 
 function App() {
